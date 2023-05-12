@@ -1,0 +1,19 @@
+.titulo {
+
+    text-align: center;
+    color: tomato;
+
+}
+
+h1 {
+    background-color: blue;
+}
+
+.imagem {
+
+    width: 300px;
+    height: 450px;
+    display: block;
+    margin: 0 auto;
+
+}
